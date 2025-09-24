@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Olá, meu nome é Guilherme Lopes Dias
+=======
+Olá, meu nome é Guilherme
+Olá, eu sou uma nova linha
+>>>>>>> 4aef7fdf64aae772042447fab08815a5779605ec
